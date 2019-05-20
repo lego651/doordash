@@ -6,12 +6,12 @@ This is a complete multiple users chat application built with Facebook: [create-
 - npm 6.7.0
 
 ### How to run locally
-Current project has two folders: server + client. Please install independent dependencies and run separately.
+Current project has two folders: server + client. Please install independent dependencies and run separately. <br />
 1.Clone project:
 ```
 $ git clone https://github.com/lego651/doordash.git
 ```
-2.Run server first:
+2.Start server first:
 ```
 $ cd doordash/server
 $ npm install --save
