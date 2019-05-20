@@ -1,0 +1,8 @@
+.side-nav-container {
+  width: 250px;
+  height: 100vh;
+  background-color: rgb(252,32,70);
+  position: fixed;
+  left: 0;
+  top: 0;
+}

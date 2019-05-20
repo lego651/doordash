@@ -1,0 +1,34 @@
+.room-header-container {
+  background-color: white;
+  height: 100px;
+  width: 100%;
+  border-bottom: 1px solid #ccc;
+  font-size: 14px;
+  display: flex;
+  flex: 1;
+}
+.room-header-content {
+  margin: 10px auto;
+  display: flex;
+  flex-direction: column;
+}
+.room-name {
+  margin-top: 20px;
+  font-size: 22px;
+  color: rgb(113,113,113);
+  text-align: center;
+}
+.room-users {
+  text-align: center;
+  color: rgb(131,131,131);
+}
+.room-users ul {
+  padding: 0;
+}
+.room-users ul li {
+  margin: 0 3px;
+  display: inline-block;
+}
+.room-users ul li span.curUser {
+  color: red;
+}

@@ -1,0 +1,15 @@
+.message-list-container {
+  padding: 0 20px;
+  background-color: rgb(239,241,242);
+  /* height: calc(100% - 180px);
+  min-height: calc(100vh); */
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  /* overflow: auto; */
+  position: relative;
+  /* padding-top: 300px; */
+  /* margin-bottom: 80px; */
+  height: calc(100% - 180px);
+  overflow-y: scroll;
+}

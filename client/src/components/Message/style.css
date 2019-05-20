@@ -1,0 +1,28 @@
+.message-container {
+  /* margin-left: auto; */
+}
+.message-content p {
+  display: inline-block;
+  background-color: white;
+  border-radius: 20px;
+  padding: 10px 25px;
+  color: rgb(79,79,79);
+  font-size: 14px;
+}
+.message-sender {
+  margin-top: -5px;
+  font-size: 14px;
+  color: rgb(120,120,120);
+}
+
+.message-container.isOwner{
+  margin-left: auto;
+}
+.message-container.isOwner .message-content p {
+  display: inline-block;
+  background-color: rgb(252,32,70);
+  border-radius: 20px;
+  padding: 10px 25px;
+  color: white;
+  font-size: 14px;
+}

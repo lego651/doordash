@@ -1,0 +1,14 @@
+.userinfo-container {
+  padding-top: 5px;
+  padding-left: 20px;
+  color: white;
+}
+.userinfo-container h2 {
+  font-size: 20px;
+  /* background-color: green; */
+}
+.userinfo-container p {
+  font-size: 12px;
+  margin-top: -10px;
+  /* background-color: green; */
+}
