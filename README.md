@@ -38,6 +38,6 @@ $ npm start
 
 
 ### TO-DOs
-- [x] Save user logged-in status in client.
-- [x] Check and avoid duplicated user name when new user logged in.
-- [x] Use Websockets or other techs to replace current short polling method to reduce server loads.
+- [ ] Save user logged-in status in client.
+- [ ] Check and avoid duplicated user name when new user logged in.
+- [ ] Use Websockets or other techs to replace current short polling method to reduce server loads.
