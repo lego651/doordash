@@ -1,6 +1,9 @@
 ## DoorDash Chat Web Application
 This is a complete multiple users chat application built with Facebook: [create-react-app](https://github.com/facebook/create-react-app). [Redux](https://redux.js.org/) is used for data management.
 
+## Quick Demo
+![Demo](demo.gif)
+
 ### Requirement
 - node 7.0.0+
 - npm 6.7.0
